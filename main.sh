@@ -1,3 +1,7 @@
+#Razor Kenway 
+#SL Android
+
+
 #color
 r='\e[1;31m'
 g='\e[1;32m'
