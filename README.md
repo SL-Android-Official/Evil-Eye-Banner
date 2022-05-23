@@ -13,6 +13,8 @@ gem install lolcat
 
 pkg install figlet
 
+pkg install cowsay
+
 pkg install git 
 
 cd Evil-Eye-Banner
